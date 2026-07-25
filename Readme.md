@@ -93,6 +93,7 @@ md
 ## Recommandations
 - Améliorations suggérées : Ajout de plusieurs OS en selection.
 - Priorité : ...
+
 🔒 Confidentialité
 Zéro réseau : l'outil tourne dans ton navigateur, même en file://
 Zéro envoi auto : rien ne part tant que tu ne postes pas toi-même ton .md
