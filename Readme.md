@@ -95,6 +95,7 @@ beta-test/
 🔒 Confidentialité
 Zéro réseau : l'outil tourne dans ton navigateur, même en file://
 Zéro envoi auto : rien ne part tant que tu ne postes pas toi-même ton .md
+
 📄 Licence
 CircaFrax Proprietary Freeware - Libre pour tous, comme tous les Codex
 
