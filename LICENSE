@@ -66,13 +66,7 @@ DANS TOUTE LA MESURE PERMISE PAR LA LOI APPLICABLE, EN AUCUN CAS CIRCAFrax NE PO
 
 Le Logiciel intègre des bibliothèques open-source sous licences permissives :
 
-- customtkinter — MIT License
-- python-qrcode — BSD 3-Clause
-- Pillow — HPND License
-- aztec-code-generator — MIT (optionnel)
-- pylibdmtx / libdmtx — MIT / BSD (optionnel)
-
-Ces composants restent soumis à leurs propres licences, listées dans `_Doc/THIRD_PARTY_LICENSES.md`. La présente licence ne s'applique pas à ces composants.
+- Html 5
 
 ### ARTICLE 9 — DURÉE ET RÉSILIATION
 
