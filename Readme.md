@@ -55,7 +55,6 @@ beta-test/
 ✍️ Modèle de rapport généré
 L'outil génère exactement ça, rien à inventer :
 
-md
 # Compte rendu de bêta-test
 
 ## Informations générales
