@@ -34,8 +34,7 @@ Clique Télécharger .md
 Le fichier se nomme tout seul : 2026-07-24_nom-du-testeur_logiciel-v0.4.3.md
 Envoie-le ou dépose-le dans le dossier reports/ du repo
 Pour le dev
-Mets index.html à la racine de ce repo beta-test
-Active Settings > Pages > Source: main / root
+
 Tous les rapports arrivent en .md dans /reports avec ce nommage :
 reports/2026-07-24_astra_codexgenqrcode-v0.4.3.md
 Triable par date, lisible direct sur GitHub.
