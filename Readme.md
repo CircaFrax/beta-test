@@ -90,7 +90,7 @@ beta-test/
 
 ## Recommandations
 - Améliorations suggérées : Ajout de plusieurs OS en selection.
-- Priorité : ...
+- Priorité : basse
 
 🔒 Confidentialité
 Zéro réseau : l'outil tourne dans ton navigateur, même en file://
