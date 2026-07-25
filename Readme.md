@@ -26,7 +26,7 @@ Pas de base de données. Pas de tracker. Juste un .md qui va dans /reports.
 
 📖 Utilisation
 Pour le bêta-testeur (2 min)
-Ouvre https://circafrax.github.io/beta-test/
+Ouvre https://circafrax.github.io/beta-test/index.html
 Remplis :
 Infos générales : nom, logiciel, version, date, plateforme
 Installation / Interface / Boutons : notes 1 à 5 + remarques
