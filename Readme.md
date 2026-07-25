@@ -8,7 +8,7 @@ CodexDevBetaTest - Kit du bêta-testeur (https://circafrax.github.io/beta-test/i
 100% offline, rien ne part tant que tu ne postes pas ton .md
 
 </p>
-Les plus simples devraient rester carrés.
+Les plus simples outils devraient rester carrés.
 Pas besoin de pavé Word pour dire qu'un bouton est flou. Juste un outil qui ne laisse rien oublier.
 
 CodexDevBetaTest c'est le petit utilitaire que j'aurais voulu donner à mes testeurs depuis le début. Fini les rapports à la main où il manque la version, l'OS ou la capture.
