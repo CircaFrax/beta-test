@@ -9,6 +9,8 @@ CodexDevBetaTest - Kit du bêta-testeur
 Les plus simples retours devraient rester carrés.
 Pas besoin de pavé Word pour dire qu'un bouton est flou. Juste un outil qui ne laisse rien oublier.
 
+https://circafrax.github.io/beta-test/index.html
+
 CodexDevBetaTest c'est le petit utilitaire que j'aurais voulu donner à mes testeurs depuis le début. Fini les rapports à la main où il manque la version, l'OS ou la capture.
 
 C'est l'anti-formulaire Google. Pas de cloud. Pas de compte. Tu ouvres, tu coches, tu exportes en .md et tu le poses sur GitHub.
