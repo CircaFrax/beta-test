@@ -1,5 +1,8 @@
 
 <p align="center"> <img src="https://circafrax.github.io/assets/banniere.png" width="500"> </p>
+
+(https://circafrax.github.io/beta-test/index.html)
+
 CodexDevBetaTest - Kit du bêta-testeur
 <p align="center">
 🧪 Ouvrir l'outil de compte rendu (en ligne)
@@ -8,8 +11,6 @@ CodexDevBetaTest - Kit du bêta-testeur
 </p>
 Les plus simples retours devraient rester carrés.
 Pas besoin de pavé Word pour dire qu'un bouton est flou. Juste un outil qui ne laisse rien oublier.
-
-(https://circafrax.github.io/beta-test/index.html)
 
 CodexDevBetaTest c'est le petit utilitaire que j'aurais voulu donner à mes testeurs depuis le début. Fini les rapports à la main où il manque la version, l'OS ou la capture.
 
