@@ -20,7 +20,7 @@ Aperçu
 À gauche tu remplis, à droite tu as le .md prêt pour GitHub – 100% offline
 
 Philosophie : Un rapport = Un fichier
-Comme tes autres Codex : 1 outil = 1 fichier.
+Comme les autres Codex : 1 outil = 1 fichier.
 
 Pas de base de données. Pas de tracker. Juste un .md qui va dans /reports.
 
