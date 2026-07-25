@@ -1,9 +1,8 @@
 
 <p align="center"> <img src="https://circafrax.github.io/assets/banniere.png" width="500"> </p>
 
-(https://circafrax.github.io/beta-test/index.html)
 
-CodexDevBetaTest - Kit du bêta-testeur
+CodexDevBetaTest - Kit du bêta-testeur (https://circafrax.github.io/beta-test/index.html)
 <p align="center">
 🧪 Ouvrir l'outil de compte rendu (en ligne)
 100% offline, rien ne part tant que tu ne postes pas ton .md
