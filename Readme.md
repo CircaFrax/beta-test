@@ -52,8 +52,7 @@ beta-test/
     └── 2026-07-25_testeur_codex-v1.md
 ```
 
-✍️ Modèle de rapport généré
-L'outil génère exactement ça, rien à inventer :
+✍️ L'outil génère exactement ça, rien à inventer :
 
 # Compte rendu de bêta-test
 
