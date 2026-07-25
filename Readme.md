@@ -42,6 +42,7 @@ Tous les rapports arrivent en .md dans /reports avec ce nommage :
 reports/2026-07-24_astra_codexgenqrcode-v0.4.3.md
 Triable par date, lisible direct sur GitHub.
 
+```
 📁 Structure du kit
 beta-test/
 ├── index.html          # L'outil complet (CodexDevBetaTest)
@@ -49,6 +50,8 @@ beta-test/
 └── reports/            # Tous les comptes rendus .md
     ├── 2026-07-24_astra_codexgenqrcode-v0.4.3.md
     └── 2026-07-25_testeur_codex-v1.md
+```
+
 ✍️ Modèle de rapport généré
 L'outil génère exactement ça, rien à inventer :
 
