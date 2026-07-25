@@ -17,7 +17,7 @@ C'est l'anti-formulaire Google. Pas de cloud. Pas de compte. Tu ouvres, tu coche
 
 Aperçu
 <img src="https://github.com/CircaFrax/beta-test/blob/main/assets/screenshot.png" width="650">
-À gauche tu remplis, à droite tu as le .md prêt pour GitHub – 100% offline
+*À gauche tu remplis, à droite tu as le .md prêt pour GitHub – 100% offline*
 
 Philosophie : Un rapport = Un fichier
 Comme les autres Codex : 1 outil = 1 fichier.
