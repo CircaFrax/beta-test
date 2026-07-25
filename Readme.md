@@ -99,5 +99,6 @@ Zéro envoi auto : rien ne part tant que tu ne postes pas toi-même ton .md
 📄 Licence
 CircaFrax Proprietary Freeware - Libre pour tous, comme tous les Codex
 
+---
 Fait partie de la suite Codex — des logiciels qui s'utilisent sans installation, comme en 1998, mais en mieux.
 
