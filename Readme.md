@@ -41,7 +41,7 @@ Triable par date, lisible direct sur GitHub.
 
 📁 Structure du kit
 beta-test/
-├── index.html          # L'outil complet (ton CodexDevBetaTest)
+├── index.html          # L'outil complet (CodexDevBetaTest)
 ├── README.md           # Ce fichier
 └── reports/            # Tous les comptes rendus .md
     ├── 2026-07-24_astra_codexgenqrcode-v0.4.3.md
