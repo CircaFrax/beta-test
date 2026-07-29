@@ -1,6 +1,9 @@
 
 <p align="center"> <img src="https://circafrax.github.io/assets/banniere.png" width="500"> </p>
 
+## Aperçu
+<img src="assets/CodexDevBetatest_box.png" width="650">
+*Menu à gauche, prévisualisation live à droite – 100% offline*
 
 CodexDevBetaTest - Kit du bêta-testeur (https://circafrax.github.io/beta-test/index.html)
 <p align="center">
